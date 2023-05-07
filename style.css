@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+
+
+}
+
+ul li a{
+    padding: 0 20px;
+    text-decoration: none;
+    color: #3a3a3a;
+    display: inline-block;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    height:calc(100vh - 100px);
+    justify-content: center;
+    
+
+}
+
+.heroimage{
+    padding-right: 10%;
+}
+
+leftside{
+    width: 30%;
+}
+
+main p{
+    font-size: 15px;
+    margin: 10px 0;
+    padding-right: 23%;
+    width: 771px;
+   
+}
+
+main h1{
+    font-size: 77px;
+    letter-spacing: 0.2px;
+    color: #0F4C75;
+    font-family:'Poppins', sans-serif;;
+    
+}
+
+li a::after{
+    content: '';
+    display: block;
+    height: 4px;
+    width: 0;
+    background: #c4c4f7;
+    transition: all .5s;
+
+}
+
+li a:hover::after{
+  width: 100%;
+}
+
+.btn{
+    padding: 15px 30px;
+    background: #c4c4f7;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    font: 700;
+    cursor: pointer;
+    
+  
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn a:hover{
+    color:#0F4C75;
+    background-color: #f6fbfe;
+
+
+}
