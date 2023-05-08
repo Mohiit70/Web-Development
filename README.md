@@ -1,5 +1,3 @@
-# Web-Development
-
 # 🚀 Web Development Journey
 
 Welcome to my repository documenting my web development journey! This repository contains various projects, notes, and resources related to my ongoing journey in web development.
