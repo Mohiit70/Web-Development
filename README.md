@@ -19,8 +19,8 @@ This repository serves as documentation of my journey in web development. It con
 
 This section contains various web development projects that I have completed or am currently working on. Each project has a brief description and a link to the project repository if applicable.
 
-- [Landing Page](https://friendly-kelpie-cb5df5.netlify.app/)
-- [Project 2](#)
+- [Landing Page 01]([https://friendly-kelpie-cb5df5.netlify.app/](https://boostbridge.netlify.app/)
+- [Landing Page 02](https://friendly-kelpie-cb5df5.netlify.app/)
 - [Project 3](#)
 - ...
 
